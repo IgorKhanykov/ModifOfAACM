@@ -16,3 +16,9 @@ The program main loop is linear. One partition is generated per iteration. Worki
 A way out of this situation is to output only a set of individual partitions, for example, from 15 to 1 cluster. Practice shows that the human visual perception experiences difficulties in distinguishing more than 15 different clusters (shades of gray) in one partition.
 
 10/31/2024 Khanykov I.G.
+
+
+If you use code of modified Arifin-Asano method please cite article: 
+Khanykov IG, Nenashev VA, Kharinov MV. Segmentation of earth remote sensing
+images based on agglomerative pixel clustering using the minimum increment of the total squared
+error as a decision function. Computer Optics 2026; 50(1): 1591. DOI: 10.18287/COJ1591.
