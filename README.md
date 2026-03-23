@@ -3,7 +3,7 @@ Modification of Arifin's Agglomerative Clustering Method
 
 This repository contains files of modifications of agglomerative multithreshold pixel clustering method of A.Z.Arifin and A.Asano.
 
-The methodArifinMod24.m file contains the Matlab code of the modified A.Z. Arifin and A. Asosno method of agglomerative multilevel thresholding of grayscale images. The modification consists in follows. Firstly, the distance between pairs of adjacent clusters is calculated using the formula for the increment of the total squared error. Secondly, the quality of each partition into clusters is assessed.
+The methodArifinMod24.m file contains the Matlab code of the modified A.Z. Arifin and A. Asano method of agglomerative multilevel thresholding of grayscale images. The modification consists in follows. Firstly, the distance between pairs of adjacent clusters is calculated using the formula for the increment of the total squared error. Secondly, the quality of each partition into clusters is assessed.
 
 The program receives an image at the input and checks whether it is 8-bit or 24-bit. In any case, it converts it to grayscale.
 
