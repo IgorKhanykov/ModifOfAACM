@@ -18,7 +18,11 @@ A way out of this situation is to output only a set of individual partitions, fo
 10/31/2024 Khanykov I.G.
 
 
+
 If you use code of modified Arifin-Asano method please cite article: 
+
 Khanykov IG, Nenashev VA, Kharinov MV. Segmentation of earth remote sensing
 images based on agglomerative pixel clustering using the minimum increment of the total squared
 error as a decision function. Computer Optics 2026; 50(1): 1591. DOI: 10.18287/COJ1591.
+
+03/23/2026 Khanykov I.G.
